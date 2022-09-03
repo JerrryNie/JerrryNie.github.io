@@ -93,10 +93,10 @@ author:
   bio              : "Research scientist at Test University, expert in all things test and account related"
   location         : "Beijng, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
   googlescholar    : "https://scholar.google.com/citations?user=-SkEwyYAAAAJ&hl=zh-CN"
-  email            :
+  email            : "jerrrynie@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
