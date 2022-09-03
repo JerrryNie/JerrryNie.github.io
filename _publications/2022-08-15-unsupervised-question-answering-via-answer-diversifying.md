@@ -6,8 +6,7 @@ excerpt: ''
 date: 2022-08-15
 venue: 'COLING'
 paperurl: 'https://arxiv.org/abs/2208.10813'
-citation: '&quot;'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Nie, Y., Huang, H., Chi, Z., & Mao, X. L. (2022). Unsupervised Question Answering via Answer Diversifying. arXiv preprint arXiv:2208.10813.'
 ---
 
 ## Abstract
@@ -16,4 +15,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://arxiv.org/pdf/2208.10813.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Nie, Y., Huang, H., Chi, Z., & Mao, X. L. (2022). Unsupervised Question Answering via Answer Diversifying. arXiv preprint arXiv:2208.10813.
