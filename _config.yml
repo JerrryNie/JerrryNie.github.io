@@ -93,7 +93,7 @@ author:
   bio              : "Research scientist at Test University, expert in all things test and account related"
   location         : "Beijng, China"
   employer         :
-  pubmed           : ""
+#  pubmed           : ""
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
   googlescholar    : "https://scholar.google.com/citations?user=-SkEwyYAAAAJ&hl=zh-CN"
   email            : "jerrrynie@gmail.com"
@@ -113,7 +113,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+#  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
