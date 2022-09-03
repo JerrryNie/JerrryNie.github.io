@@ -61,5 +61,5 @@ Service and leadership
 
 Selected Awards
 ======
-National Scholarship, 2019
-National Scholarship, 2018
+* National Scholarship, 2019
+* National Scholarship, 2018
