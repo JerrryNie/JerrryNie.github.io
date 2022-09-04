@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download my [CV](https://github.com/JerrryNie/jerrrynie.github.io/blob/master/files/CV.pdf) in PDF.
+You can also download my [CV](https://jerrrynie.github.io/files/CV.pdf) in PDF.
 
 Education
 ======
