@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+You can also download my [CV](https://github.com/JerrryNie/jerrrynie.github.io/blob/master/files/CV.pdf) in PDF.
+
 Education
 ======
-* B.S. in School of Computer Science and Technology, Beijing Institute of Technology, 2020
-* M.S. in School of Computer Science and Technology, Beijing Institute of Technology, 2023 (expected)
+* B.S. in School of Computer Science and Technology, Beijing Institute of Technology, _Sept. 2016 - Jun. 2020_
+* M.S. in School of Computer Science and Technology, Beijing Institute of Technology, _Sept. 2020 - present_
 
 <!---
 Work experience
