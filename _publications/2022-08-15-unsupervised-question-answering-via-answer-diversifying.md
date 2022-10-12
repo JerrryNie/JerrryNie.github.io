@@ -6,7 +6,7 @@ excerpt: 'In this study, we propose a method, called **DiverseQA**, to tackle th
 date: 2022-08-15
 venue: 'COLING 2022'
 paperurl: 'https://arxiv.org/abs/2208.10813'
-citation: 'Yuxiang Nie, Heyan Huang, Zewen Chi, and Xian-Ling Mao. 2022. Unsupervised Question Answering via Answer Diversifying. In Proceedings of the 29th International Conference on Computational Linguistics, pages 1732–1742, Gyeongju, Republic of Korea. International Committee on Computational Linguistics.'
+citation: 'Yuxiang Nie, Heyan Huang, Zewen Chi, and Xian-Ling Mao. 2022. Unsupervised Question Answering via Answer Diversifying. In _Proceedings of the 29th International Conference on Computational Linguistics_, pages 1732–1742, Gyeongju, Republic of Korea. International Committee on Computational Linguistics.'
 ---
 
 ## Abstract
@@ -14,4 +14,4 @@ Unsupervised question answering is an attractive task due to its independence on
 
 [Download paper here](https://arxiv.org/pdf/2208.10813.pdf)
 
-Recommended citation: Yuxiang Nie, Heyan Huang, Zewen Chi, and Xian-Ling Mao. 2022. Unsupervised Question Answering via Answer Diversifying. In Proceedings of the 29th International Conference on Computational Linguistics, pages 1732–1742, Gyeongju, Republic of Korea. International Committee on Computational Linguistics.
+Recommended citation: Yuxiang Nie, Heyan Huang, Zewen Chi, and Xian-Ling Mao. 2022. Unsupervised Question Answering via Answer Diversifying. In _Proceedings of the 29th International Conference on Computational Linguistics_, pages 1732–1742, Gyeongju, Republic of Korea. International Committee on Computational Linguistics.
