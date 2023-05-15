@@ -2,7 +2,7 @@
 title: "Unsupervised Question Answering via Answer Diversifying"
 collection: publications
 permalink: /publication/2022-08-15-unsupervised-question-answering-via-answer-diversifying
-excerpt: 'In this study, we propose a method, called **DiverseQA**, to tackle the problem of diversifying answers in unsupervised question answering. Specifically, **DiverseQA** is composed of three modules: data construction, data augmentation and denoising filter. Firstly, the data construction module extends the extracted named entity into a longer sentence constituent as the new answer span to construct a QA dataset with diverse answers. Secondly, the data augmentation module adopts an answer-type dependent data augmentation process via adversarial training in the embedding level. Thirdly, the denoising filter module is designed to alleviate the noise in the constructed data. Extensive experiments show that **DiverseQA** outperforms pervious unsupervised methods on five benchmark datasets, including SQuADv1.1, NewsQA, TriviaQA, BioASQ, and DuoRC. Besides, it shows strong performance in the few-shot learning.'
+excerpt: 'In this study, we propose a method, called **DiverseQA**, to tackle the problem of diversifying answers in unsupervised question answering.'
 date: 2022-08-15
 venue: 'COLING 2022'
 paperurl: 'https://aclanthology.org/2022.coling-1.149/'
