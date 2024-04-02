@@ -14,7 +14,8 @@ You can also download my [CV](https://jerrrynie.github.io/files/CV.pdf) in PDF.
 Education
 ======
 * B.S. in School of Computer Science and Technology, Beijing Institute of Technology, _Sept. 2016 - Jun. 2020_
-* M.S. in School of Computer Science and Technology, Beijing Institute of Technology, _Sept. 2020 - present_
+* M.S. in School of Computer Science and Technology, Beijing Institute of Technology, _Sept. 2020 - Jun. 2023_
+* Ph.D. in School of Computer Science and Engineering, Hong Kong University of Science and Technology, _Sept. 2023 - present_
 
 <!---
 Work experience
@@ -69,4 +70,4 @@ Selected Awards
 Services
 ======
 * Reviewer:
-  * TASLP, TNNLS, EMNLP'23
+  * TASLP, TNNLS, EMNLP'23, ACL ARR'23/24
