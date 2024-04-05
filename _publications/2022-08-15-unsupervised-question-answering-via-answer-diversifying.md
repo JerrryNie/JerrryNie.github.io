@@ -14,4 +14,4 @@ Unsupervised question answering is an attractive task due to its independence on
 
 [Download paper here](https://aclanthology.org/2022.coling-1.149.pdf)
 
-Recommended citation: Yuxiang Nie, Heyan Huang, Zewen Chi, and Xian-Ling Mao. 2022. Unsupervised Question Answering via Answer Diversifying. In Proceedings of the 29th International Conference on Computational Linguistics, pages 1732–1742, Gyeongju, Republic of Korea. International Committee on Computational Linguistics.
+Recommended citation: **Yuxiang Nie**, Heyan Huang, Zewen Chi, and Xian-Ling Mao. 2022. Unsupervised Question Answering via Answer Diversifying. In Proceedings of the 29th International Conference on Computational Linguistics, pages 1732–1742, Gyeongju, Republic of Korea. International Committee on Computational Linguistics.
